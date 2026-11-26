@@ -1,0 +1,8 @@
+# personal face signature - never commit
+owner.npy
+
+# downloaded models (see README)
+models/
+
+__pycache__/
+*.pyc
